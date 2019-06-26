@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 
-const ROOT_FOLDER = './Animals/';
+const ROOT_FOLDER = './Colors/';
 
 
 fs.readdir(ROOT_FOLDER, (err, files) => {
